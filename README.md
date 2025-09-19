@@ -60,7 +60,7 @@ By compressing 32-bit floating-point (FP32) models to lower bit-widths (down to 
 ## 📧 Contact
 **Can Uğur Oflamaz    :** cuoflamaz@run-x.com
 
-**Müştak Erhan Yalçın :** mustak.yalcin@itu.edu.tr
+**Prof. Dr. Müştak Erhan Yalçın :** mustak.yalcin@itu.edu.tr
 
 **Github Link         :** https://github.com/can-ugur/HADQ-Net
 
