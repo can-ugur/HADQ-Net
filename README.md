@@ -35,6 +35,14 @@ By compressing 32-bit floating-point (FP32) models to lower bit-widths (down to 
 
 - **Patent Protection:** The methodologies within the HADQ-Net framework are the subject of a filed patent application.
 
+## 🚀 Commercialization
+The HADQ-Net research framework is the foundation of RunX Technology Inc., an FPGA design company focused on hardware acceleration and optimized AI solutions.
+
+For partnership inquiries, please contact us via the RunX Technology website (www.run-x.com) or LinkedIn (https://www.linkedin.com/company/runx-tech).
+
+<img width="250" height="200" alt="logo" src="https://github.com/user-attachments/assets/844998a5-05df-4751-a222-96642a1877c0" />
+
+
 ## 📊 Benchmark Results (Summary)
 
 ### vs. State-of-the-Art on CIFAR-100 (ResNet18)
