@@ -31,7 +31,7 @@ By compressing 32-bit floating-point (FP32) models to lower bit-widths (down to 
 *   Adaptive, per-layer / per-channel clipping and normalization  
 *   Supports **fixed- and mixed-precision** quantization (1–8 bits)  
 
-## 📜 Patent & License
+## 📜 Patent
 
 - **Patent Protection:** The methodologies within the HADQ-Net framework are the subject of a filed patent application.
 
